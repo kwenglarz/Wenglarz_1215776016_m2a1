@@ -1,0 +1,11 @@
+{
+  "name": "wenglarz_1215776016_m2a1",
+  "version": "1.0.0",
+  "description": "student code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
